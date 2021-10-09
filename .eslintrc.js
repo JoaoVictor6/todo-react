@@ -28,5 +28,6 @@ module.exports = {
     'import/extensions': 'off',
     'react/jsx-filename-extension': 'off',
     'react/jsx-no-undef': 'off',
+    'import/prefer-default-export': 'off',
   },
 };
